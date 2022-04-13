@@ -8,4 +8,5 @@
   
 于是诞生了这个确保痴呆的脚本。
 
-  ![984d34b7](https://user-images.githubusercontent.com/31807940/163146835-402ab6ec-cec3-48ab-9efa-5daed822f7ae.png)
+
+![image](https://user-images.githubusercontent.com/31807940/163147220-f14109de-7349-4003-9fea-f810b20a1f92.png)
