@@ -36,8 +36,8 @@ def cap_newdrink():
         return False
     num = cap // CAPS_PER_DRINK
     gl.CAP += -CAPS_PER_DRINK * num
-    get_newdrink(num)
     print(f'''\tCOST->Cap：{CAPS_PER_DRINK * num}\n''')
+    get_newdrink(num)
     return True
 
 def bottle_newdrink():
